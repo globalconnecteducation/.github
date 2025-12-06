@@ -35,6 +35,11 @@ To empower students with the right direction and resources to build successful a
 - Ongoing support after landing  
 
 ## 🌐 Countries We Support
+### Current 
+- Russia
+- Kazakistan
+- UK
+### Future Score
 - USA  
 - UK  
 - Canada  
@@ -51,7 +56,7 @@ We collaborate with accredited global universities, offering diverse academic pa
 ## 📬 Contact
 - **Website:** https://globalconnecteducation.com  
 - **Email:** info@globalconnecteducation.com  
-- **Phone:** +91-XXXXXXXXXX  
+- **Phone:** +91-70195 74463 
 - **Head Office:** Bengaluru, India  
 
 ## 🛠 Repo Purpose
