@@ -72,7 +72,7 @@ We collaborate with **accredited and globally recognized universities**, offerin
 - **Website:** https://globalconnecteducation.com  
 - **Email:** hello@globalconnecteducation.com  
 - **Phone:** +91 70195 74463  
-- **Head Office:** Bengaluru, Karnataka, India  
+- **Head Office:** Bengaluru, Karnataka, India 560048 & Vijaypur Shiswan Shrawasti, Uttar Pradesh, India 271801
 
 ## 🛠 Repository Purpose
 This repository may include:
